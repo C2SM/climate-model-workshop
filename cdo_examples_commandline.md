@@ -4,10 +4,10 @@ The climate data operators, short cdo, are a command line tool to work with netc
 See https://code.mpimet.mpg.de/projects/cdo/embedded/index.html for a full documentation.
 
 In your jupyter lab session, open a terminal (new tab +, choose Terminal at the very bottom).
-The example data to play around with is located here: /net/co2/c2sm-data/rlorenz/climate_model_data_workshop/
+The example data to play around with is located here: /net/dust/c2sm-data/rlorenz/climate_model_data_workshop/
 
 You can do "ls" to see whats in there.
-> ls /net/co2/c2sm-data/rlorenz/climate_model_data_workshop/
+> ls /net/dust/c2sm-data/rlorenz/climate_model_data_workshop/
 
 Some of the most commonly used cdo commands include:
 - monmean: to calculate monthly means
